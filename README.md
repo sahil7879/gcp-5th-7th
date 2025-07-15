@@ -4,3 +4,4 @@
 - https://portal.tutorialsdojo.com/courses/free-google-certified-associate-cloud-engineer-practice-exams-sampler/
 - https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-exam-questions/
 - https://www.examtopics.com/exams/google/associate-cloud-engineer/view/
+- https://www.cloudskillsboost.google/paths/11
