@@ -1,5 +1,4 @@
 - check lab guide file to get the steps for the lab done 
-- will be available till 16th of march after that will become private
 - fork this repo
 - here are the links for sample questions of gcp certification
 - https://portal.tutorialsdojo.com/courses/free-google-certified-associate-cloud-engineer-practice-exams-sampler/
