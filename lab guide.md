@@ -1162,7 +1162,7 @@ In this lab, you will:
          - name: my-dotnet-app
            image: us-central1-docker.pkg.dev/YOUR_PROJECT_ID/my-repo/my-dotnet-app:latest
            ports:
-           - containerPort: 80
+           - containerPort: 8080
    ```
 2. Apply the deployment:
    ```sh
@@ -1197,8 +1197,8 @@ In this lab, you will:
        app: my-dotnet-app
      ports:
        - protocol: TCP
-         port: 80
-         targetPort: 80
+         port: 8080
+         targetPort: 8080
    ```
 2. Apply the service:
    ```sh
